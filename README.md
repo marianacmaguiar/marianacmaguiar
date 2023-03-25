@@ -16,7 +16,8 @@ I am a biomedical engineering graduate with a master's degree in medical informa
 My primary interest lies in the data science field, and I'm continuously working to develop my skills and leverage them to drive impactful insights and improve business outcomes. I thrive in innovative and collaborative teams that tackle complex data challenges and deliver actionable insights.
 
 When I'm not working with data, I enjoy chasing waves and soaking up the sun while surfing. 🏄🤘
-
+ 
+ <br>
 
 <h2>:girl::computer: Software & Frameworks:</h2>
 
