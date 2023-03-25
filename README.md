@@ -1,7 +1,7 @@
-<h1 align="center">Hi there! I'm Mariana Aguiar 👋</h1>
-<h3 align="center">
- Exploring Machine Learning & Data Science 🧠 <br>
-</h3>
+<h1 align="center">Hi there 👋! I'm Mariana Aguiar </h1>
+<h2 align="center">
+ 🧠 Exploring Machine Learning & Data Science  <br>
+</h2>
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/mariana-monteiro-aguiar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
