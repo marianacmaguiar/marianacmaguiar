@@ -36,7 +36,7 @@ When I'm not working with data, I enjoy chasing waves and soaking up the sun whi
 
 ### Data Visualization:
 
-[![Seaborn](https://img.shields.io/badge/Seaborn-#2596be)](https://seaborn.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-2596be)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-e28743)](https://matplotlib.org/)
 
 
