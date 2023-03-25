@@ -23,8 +23,6 @@ When I'm not working with data, I enjoy chasing waves and soaking up the sun whi
 
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-white?style=flat&logo=sql&logoColor=blue&color=4479A1)
 ![SQL](https://img.shields.io/badge/SQL-0077C6?style=flat-square&logo=sql&logoColor=white)
 
 
