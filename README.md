@@ -3,8 +3,7 @@
  Exploring Machine Learning & Data Science 🧠 <br>
 </h3>
 
-<div align="center">
-  <h2> Connect with me 🤝</h2>
+<div align="center">  
   <a href="https://www.linkedin.com/in/mariana-monteiro-aguiar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
   <a href="mailto:cmarianacmaguiar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;
 </div>
