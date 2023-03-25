@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋! I'm Mariana Aguiar</h1>
 <h3 align="center">
-🧠 Exploring Machine Learning & Data Science | Experienced in Programming, Data Analysis and ETL </br> 
+🧠 Exploring Machine Learning & Data Science <br> Experienced in Programming, Data Analysis and ETL </br> 
 </h3>
 
 
