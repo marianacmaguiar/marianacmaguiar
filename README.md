@@ -5,10 +5,8 @@ Exploring Machine Learning & Data Science | Experienced in Programming, Data Ana
 
 
 <div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)https://www.linkedin.com/in/mariana-monteiro-aguiar/]&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:marianacmaguiar@gmail.com)](mailto:marianacmaguiar@gmail.com)&nbsp;&nbsp;
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-monteiro-aguiar/)&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:marianacmaguiar@gmail.com@gmail.com)](mailto:cmarianacmaguiar@gmail.com@gmail.com)&nbsp;&nbsp;
 </div>
 
 <br>
