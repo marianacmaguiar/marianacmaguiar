@@ -21,12 +21,12 @@ When I'm not working with data, I enjoy chasing waves and soaking up the sun whi
 
 <h2>:girl::computer: Software & Frameworks:</h2>
 
-#### Languages:
+### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
 
-#### Data Processing and Analytics:
+### Data Processing and Analytics:
 ![SSMS](https://img.shields.io/badge/SSMS-Management%20Studio-blue?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-Integration%20Services-blue?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
@@ -34,13 +34,13 @@ When I'm not working with data, I enjoy chasing waves and soaking up the sun whi
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 
-#### Data Visualization:
+### Data Visualization:
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.11.1-blue)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-blue)](https://matplotlib.org/)
 
 
 
-#### Machine Learning and Deep Learning:
+### Machine Learning and Deep Learning:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
@@ -50,7 +50,7 @@ When I'm not working with data, I enjoy chasing waves and soaking up the sun whi
 
 
 
-#### Development:
+### Development:
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
