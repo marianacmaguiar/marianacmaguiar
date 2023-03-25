@@ -1,10 +1,11 @@
 <h1 align="center">Hi there 👋! I'm Mariana Aguiar</h1>
 <h3 align="center">
-Exploring Machine Learning & Data Science | Experienced in Programming, Data Analysis and ETL </br> 
+🧠 Exploring Machine Learning & Data Science | Experienced in Programming, Data Analysis and ETL </br> 
 </h3>
 
 
 <div align="center">
+  <h2>🤝 Connect with me:</h2>
   <a href="https://www.linkedin.com/in/mariana-monteiro-aguiar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
   <a href="mailto:cmarianacmaguiar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;
 </div>
@@ -19,19 +20,43 @@ My primary interest lies in the data science field, and I'm continuously working
 When I'm not working with data, I enjoy chasing waves and soaking up the sun while surfing. 🏄🤘
 
 
-<!--
-**marianacmaguiar/marianacmaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:girl::computer: Software & Frameworks:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
 
+### Data Processing and Analytics:
+![SSMS](https://img.shields.io/badge/SSMS-Management%20Studio-blue?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-Integration%20Services-blue?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+
+### Data Visualization:
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.11.1-blue)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-blue)](https://matplotlib.org/)
+
+
+
+### Machine Learning and Deep Learning:
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+[![PyTorch3D](https://img.shields.io/badge/PyTorch3D-FF6F00?logo=pytorch&logoColor=white)](https://pytorch3d.org/)
+[![Detectron2](https://img.shields.io/badge/Detectron2-008000?logo=pytorch&logoColor=white)](https://github.com/facebookresearch/detectron2)
+
+
+
+### Data Analysis:
+
+
+
+### Development:
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+
+ 
