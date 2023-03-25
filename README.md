@@ -17,7 +17,7 @@ My primary interest lies in the data science field, and I'm continuously working
 
 When I'm not working with data, I enjoy chasing waves and soaking up the sun while surfing. 🏄🤘
  
- <br>
+ 
 
 <h2>:girl::computer: Software & Frameworks:</h2>
 
