@@ -1,8 +1,7 @@
 <h1 align="center">Hi there! I'm Mariana Aguiar 👋</h1>
 <h3 align="center">
- Exploring Machine Learning & Data Science 🧠 <br></br> 
+ Exploring Machine Learning & Data Science 🧠 <br>
 </h3>
-
 
 <div align="center">
   <h2> Connect with me 🤝</h2>
