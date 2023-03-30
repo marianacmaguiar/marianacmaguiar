@@ -11,7 +11,7 @@
 
 <br>
 
-I am a biomedical engineering graduate with a master's degree in medical informatics, and I'm passionate about leveraging data to drive organizational success. With two years of experience in data-driven roles as a data analyst and data engineer, I enjoy utilizing my technical and analytical skills to drive meaningful insights and contribute to organizational success.
+As a biomedical engineering graduate with a master's degree in medical informatics, I am passionate about leveraging data to drive organizational success. With two years of experience in data-driven roles, both as a data analyst and as a data engineer, I am passionate about utilizing my technical and analytical skills to drive meaningful insights and contribute to organizational success.
 
 My primary interest lies in the data science field, and I'm continuously working to develop my skills and leverage them to drive impactful insights and improve business outcomes. I thrive in innovative and collaborative teams that tackle complex data challenges and deliver actionable insights.
 
